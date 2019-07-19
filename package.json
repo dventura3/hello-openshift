@@ -1,0 +1,22 @@
+{
+  "name": "hello-openshift",
+  "version": "1.0.0",
+  "description": "Testing Openshift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dventura3/hello-openshift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dventura3/hello-openshift/issues"
+  },
+  "homepage": "https://github.com/dventura3/hello-openshift#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
